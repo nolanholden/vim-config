@@ -35,6 +35,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'tpope/vim-pathogen'
+Plugin 'vim-syntastic/syntastic'
 
 call vundle#end()
 
